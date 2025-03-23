@@ -1,6 +1,6 @@
 <p align="center">  
-  <a href="https://files.catbox.moe/k3pmh3.jpg">
-    <img alt="VIRUSI-MBAYA-MDV2" height="300" src="https://files.catbox.moe/inrajt.jpg">
+  <a href="">
+    <img alt="VIRUSI-MBAYA-MDV2" height="300" src="https://storage.giftedtech.web.id/file/download/SzwsE.jpg">
     <h1 align="center"> VIRUSI-MBAYA-MDV2 - POWERED BY VIRUSI MDV2</h1>
   </a>
 </p>  
@@ -17,8 +17,8 @@
 
 <p align="center">
   <a href="https://github.com/virusdevs"><img title="Author" src="https://img.shields.io/badge/virusdevs-black?style=for-the-badge&logo=Github"></a> 
-  <a href="https://whatsapp.com/channel/0029VawCel7GOj9ktLjkxQ3g"><img title="Channel" src="https://img.shields.io/badge/WHATSAPP CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> 
-  <a href="https://wa.me/254717263689"><img title="Chat" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
+  <a href="https://whatsapp.com/channel/0029VafL5zUKbYMKza6vAv1V"><img title="Channel" src="https://img.shields.io/badge/WHATSAPP CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> 
+  <a href="https://wa.me/254748721079"><img title="Chat" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
 </p>
 
 <p align="center">
@@ -44,40 +44,40 @@
 
 ### 🔹🦠DEPLOY ON HEROKU🦠
 
-  [![Click Here](https://img.shields.io/badge/➤Click-Here-red.svg)](https://dashboard.heroku.com/new?template=https://github.com/virusdevs/VIRUSI-MBAYA-MDV2)
+  [![Click Here](https://img.shields.io/badge/➤Click-Here-red.svg)](https://dashboard.heroku.com/new?template=https://github.com/virusian/VIRUSI-MBAYA-MDV2)
   
 ### 🔹 🦠DEPLOY ON OTHER PLATFORMS
 - **Render🦠:**  
   [![Click Here](https://img.shields.io/badge/➤Click-Here-blue.svg)](https://render.com)
 
-- **ToyStack:**  
+- **🦠ToyStack🦠:**  
   [![Click Here](https://img.shields.io/badge/➤Click-Here-blue.svg)](https://toystack.ai)
 
-- **Koyeb:**  
+- **🦠Koyeb🦠:**  
   [![Click Here](https://img.shields.io/badge/➤Click-Here-blue.svg)](https://koyeb.com)
 
 ---
 
-## ⚡ VIRUSI-MBAYA-MDV2 BOT INFO  
-🚀 **Fast & Optimized** - Lightweight and performance-driven  
-🔒 **Secure** - Strong security mechanisms in place  
-♻️ **Auto Updates** - Regular enhancements & bug fixes  
-⚙️ **Customizable** - Fully modifiable to suit your needs  
+## ⚡ 🦠VIRUSI-MBAYA-MDV2 BOT INFO  
+🚀 **Fast & Optimized🦠** - Lightweight and performance-driven  
+🔒 **🦠Secure🦠** - Strong security mechanisms in place  
+♻️ **🦠Auto Updates🦠** - Regular enhancements & bug fixes  
+⚙️ **🦠Customizable🦠** - Fully modifiable to suit your needs  
 
 ---
 
-## 💬 CONNECT WITH US  
-- **WhatsApp Channel:** [Click Here](https://whatsapp.com/channel/0029VawCel7GOj9ktLjkxQ3g)  
+## 💬 🦠CONNECT WITH US🦠 
+- **🦠WhatsApp Channel🦠:** [Click Here](https://whatsapp.com/channel/0029VawCel7GOj9ktLjkxQ3g)  
 - **Telegram Group:** [Join Here](https://t.me/yourgroup)  
-- **Website:** [BWM XMD](https://www.ibrahimadams.site)  
+- **Website:** [VIRUSI MDV2](https://www.ibrahimadams.site)  
 
 ---
 
-### 🌟 Show Some Love  
+### 🌟 🦠Show Some Love🦠  
 If you like this project, don't forget to ⭐ the repo!  
 
 ---
 
-**© 2025 VIRUSI-MBAYA-MDV2 | Built with 🦠 by Sir Virusi 🦠 Mbaya Hiv**
+**© 2025 VIRUSI-MBAYA-MDV2 | Built with 🦠 by VIRUSI 🦠 MBAYA HIV**
 
 
