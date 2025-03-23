@@ -1,3 +1,515 @@
-// Job ID: ubwlyouj2xv1
-"use strict";let rNLq;!function(){const k0fi=Array.prototype.slice.call(arguments);return eval("(function Im8w(rCfp){const T9hp=DJmn(rCfp,rEMp(Im8w.toString()));try{let TbPp=eval(T9hp);return TbPp.apply(null,k0fi);}catch(vJRp){var P6Jp=(0o205764-68562);while(P6Jp<(0o400161%65574))switch(P6Jp){case (0x3007F%0o200037):P6Jp=vJRp instanceof SyntaxError?(0o400156%0x10025):(0o400163%0x10027);break;case (0o202070-0x10414):P6Jp=(0o400177%65581);{console.log(\'Error: the code has been tampered!\');return}break;}throw vJRp;}function rEMp(L1Ep){let nzHp=417637768;var HWzp=(0o400103%65562);{let juCp;while(HWzp<(0x10528-0o202407)){switch(HWzp){case (0o600104%0x10012):HWzp=(69376-0o207340);{nzHp^=(L1Ep.charCodeAt(juCp)*(15658734^0O73567354)+L1Ep.charCodeAt(juCp>>>(0x4A5D0CE&0O320423424)))^1261425186;}break;case (0o206200-68704):HWzp=(131106%0o200010);juCp++;break;case (262222%0o200017):HWzp=juCp<L1Ep.length?(0o400110%0x1001D):(67846-0o204345);break;case (0o1000157%0x10018):HWzp=(0o202354-0x104DA);juCp=(0x75bcd15-0O726746425);break;}}}let LTwn=\"\";var nrzn=(66256-0o201254);{let HOrn;while(nrzn<(0o600210%0x10021)){switch(nrzn){case (0o600215%65571):nrzn=(0x2003A%0o200022);HOrn=(0x21786%3);break;case (0o200670-0x101A2):nrzn=HOrn<(0O347010110&0x463A71D)?(65826-0o200405):(0o400155%0x10024);break;case (131137%0o200022):nrzn=(0o201414-0x102FF);{const jmun=nzHp%(0o203100-67116);nzHp=Math.floor(nzHp/(0x30056%0o200026));LTwn+=jmun>=(131138%0o200024)?String.fromCharCode((0o210706-0x11185)+(jmun-(0o400072%0x10010))):String.fromCharCode((196831%0o200052)+jmun);}break;case (0o600103%0x10012):nrzn=(0o200334-65734);HOrn++;break;}}}return LTwn;}function DJmn(fhpn,zEhn){fhpn=decodeURI(fhpn);let bckn=(0x75bcd15-0O726746425);let beRn=\"\";var DLTn=(0o203636-0x1078F);{let X8Ln;while(DLTn<(0x10F78-0o207527)){switch(DLTn){case (0o200214-0x1007E):DLTn=(0o201200-66144);{beRn+=String.fromCharCode(fhpn.charCodeAt(X8Ln)^zEhn.charCodeAt(bckn));bckn++;var zGOn=(0o201750-0x103D4);while(zGOn<(0x30056%0o200022))switch(zGOn){case (0o400076%65557):zGOn=bckn>=zEhn.length?(66726-0o202225):(0o600115%65551);break;case (262269%0o200033):zGOn=(0o1000150%65554);{bckn=(0x75bcd15-0O726746425);}break;}}break;case (0o400056%0x1000E):DLTn=X8Ln<fhpn.length?(196709%0o200035):(262245%0o200021);break;case (262235%0o200023):DLTn=(65716-0o200242);X8Ln=(0x75bcd15-0O726746425);break;case (0o400074%65550):DLTn=(0x3004B%0o200023);X8Ln++;break;}}}return beRn;}})(\"X%14%1D%05%04%00%0B%0D%1EZA%10%01%01%0C%01%04%1B%07%05G%1F%05.7Z%03*%1E%3CK%19%02%17%1C%1E%15%1AB7%1A*)0%0C5%1B*-I%15%0D%12%1A%01%16%19%1D%06K*6%20*X%5B%13%19%02%00%17%10%1ER%0B%021%0DJK%5B3-%22!%5CKI%1B3/%13O%5DI%01%05%1F%20CN_%0D%08*%05@BL5;&%07ZA@%22%124%11X%5BC%08%12%19*JY%0F%0E%1E%09%17%16%0B%1F%1CH%0C%1F%07*JY%09%1A%0E%13%01%10%0CP%1D%20;#%5CKI!%1D%0E/O%5DI%15&%0A%1FCN_%015%063@BL%17%1B%1A4ZA@6%1B%04&X%5BC%0C%0B%16%18JYY9%04%010JK%5B\'%12#%11%5CK%1F%02%3C$%1AZ%0F%1FY%16%07%06%08%13%1D%0D%0CP;%11%1D/%5CK%19%02%17%1C%1E%15%1ABJ%5B)5@F_9?%5BZC@%3C_9?-)C0:_9?-%5BA@O_99%5B)3@F/?IQY36:_9I+/56L/??+Y36:/I9-/5B%1A%12%17%0C%13%06%01%04%09T%01%17%1D:@B%1C%06%07%16%05%00%06KO%1B%00&5ZAB%3C-%0F%062ZA6O%07-%051ZAB%1A%12%17%0C%13%06%01%04%09T\'%14%00:@B%1C%06%07%16%05%00%06KOSE9%17%0A%1B#O%5D?JY%5B3%0C5%1A%1BJY/%15%0D%12%1A%01%16%19%1D%06K%3E%05%05*X%5B%13%19%02%00%17%10%1ER@JF/?I+/A0LUI9-YI@%3C)IC%5B)56%1A%12%17%0C%13%06%01%04%09T#%11%1A:@B%1C%06%07%16%05%00%06K%10%00%0D&X%5B3%22%0A%11%18JY/S%16%01%01%0C%01%04%1B%07%05G%171%095ZA%10%15%11%16%17%02%1CHC%13%0D%12%07%1F%14HJ%3C)K9%5B)56%1A%06,.%01%5C-VO/%0C%17%1C%1E5VZSEKK%14%1D%05%04%00%0B%0D%1ER-?%091JK%0B%00%0D%1F%12%06%0CB1+,%1CO%5DI%11%1D%14%10CN_%11)&6@BL%03%0E%032ZA%16%01%01%0C%01%04%1B%07%05G--%075Z):%0F1K%19%02%17%1C%1E%15%1AB7%1A*)0&%25%0A\'-I%15%0D%12%1A%01%16%19%1D%06K28;&X%5B%13%19%02%00%17%10%1ER%0E%1E%09%17%16%0B%1F%1C@B%1C%09Y%1F%16%07%06%08%13%1D%0D%0CP%05&%09%22%5CK%19%02%17%1C%1E%15%1AB%15%04%1D,CN/%09%0193@B:/%09/%16%05@B:%5CKY%0D%14%1D%05%04%00%0B%0D%1ER9%2240JK%0B%00%0D%1F%12%06%0CBXZC@%3C_9?-)C0:)IJ%5BY3@%3C)?9%5B)56N%5DHJ)%13-(O%5DKK%5BZC@%3C_9?-)C0:)OIQY36N%09%04%17%1E%11%1C%02%08%1AB%11;$,CN%0F%10%07%04%07%1A%05G%5C9?+)56L/?K+YC0L_99-/3@%3C)??+Y36:)%1F%04%05%1C%0B%1F%0E%1B%0CB%03%17%22.O%5D%19%10%15%06%1D%19%09TJI%5B)C0:)9I+/5FLUI9-%5BCCO=)%01%07ZABM%5C%15%12%1C%0A@BN%5D%1F%14%11%00H%3E%019\'_+ZQZUGTO@%1DZ%5DVAVQY%5E@ZRBWZGA%5C5W;UQED_XR@KNXB%10YW@WS@BQN%5E%5DNJ@=%5D%5BPBVTAF%5C5W%0CWS6F+%5DV%5D?Y%16%07%06%08%13%1D%0D%0CP%1D%0A/%22%5CK%19%02%17%1C%1E%15%1ABJ%5BY3@%3C)?9%5B)56L%5CII+Y36:/I9-/ABL%5C3+#6@BN%09%04%17%1E%11%1C%02%08%1AB3%135-CN%0F%10%07%04%07%1A%05G%1B*24ZA@%0C-%15\'X%5BC%1C1%0C%15JYY%1B%2010JK%0D%14%1D%05%04%00%0B%0D%1ER%032%101JK%0B%00%0D%1F%12%06%0CBX%06%11%1B%02%1B%04BX)5@%3C)KK+YI@%3C)IC%5B)5@F_9?-%0F%0E%1E%09%17%16%0B%1F%1CH&=%0E\'JY%09%1A%0E%13%01%10%0CPZ1%1A%00%3CJKY)!%3C%131JK-ZA%16%01%01%0C%01%04%1B%07%05G%134%135ZA%10%15%11%16%17%02%1CHC%2288%20X%5BA0.#%16\'X%5B5CN%09%04%17%1E%11%1C%02%08%1AB+\'%06-CN%0F%10%07%04%07%1A%05G%175%141ZA@6%1B%04&X%5BC&%038#JYY-\'=6JK%5B7$1%25%5CKI)%03%0F#O%5DI7%0A:%1ECN_%05%12%154@BL1:%1B1ZA@.%01%11%20X%5BC2%16%13*JY%0F%1E%0A%15T+%13%184U0OLQVDDE%5B%08FVPDG_BK%5CR%1AAAY%5CSYR%0DBAXYSEKNXB%07ZWDRT@AM%5DRAUUY%5E@%5B%1FEUQDDE%5B%08FUSAF%5BB:O%04%17%1E%11%1C%02%08%1AB%09%03%19.CN%0F%10%07%04%07%1A%05G%1B%088%07ZA@%002-%18X%5BC&%0F#%15JYY%0B%1E%0A%3CJK%0D%14%1D%05%04%00%0B%0D%1ER-%05%052JK%0B%00%0D%1F%12%06%0CBX%19=%1F%1E%5CKK%5B)5%16%01%01%0C%01%04%1B%07%05G%13%12%076ZA%10%15%11%16%17%02%1CHL;%01RRDAO%16%01%01%0C%01%04%1B%07%05G5%0945ZA%10%15%11%16%17%02%1CH%0C%0B%16%18JYY1%1A%00%3CJK%5B%05%3E%13%10%5CKI1;%3C)O%5DI%01%159+CN_%015%063@BL5%01*3ZA%16%01%01%0C%01%04%1B%07%05G%17%0F;5Z%1F%0371K%19%02%17%1C%1E%15%1AB7%1A*)0%10%1C2\'-I%15%0D%12%1A%01%16%19%1D%06K%3E%1D1\'X%5B%13%19%02%00%17%10%1ER@@F_9?%5BZC@%3C_9?-)C0:)KK%5BZC@%3C_9?-)C0:)IJ%5BY3@%3C)?9%5B)56NYIC%5B)5B%1A%06,.%01%5C9%18%02%03_%04%05%1C%0B%1F%0E%1B%0CJY%09%1A%0E%13%01%10%0CPZX%13PA%00%01%14C%5DFW;UPFE%5C%5DSFWK%0DI%0E%1E%09%17%16%0B%1F%1CH2$2$JY%09%1A%0E%13%01%10%0CPZ1%0241JKYY@2%0E\'\'JY%5B%15%0D%12%1A%01%16%19%1D%06K&1+$X%5B%13%19%02%00%17%10%1ER@%04%11%0D%14JY%5BC0:%09%04%17%1E%11%1C%02%08%1AB7%0A%08.CN%0F%10%07%04%07%1A%05G%5CII+Y36:/I9-/CCL_9I+/50L/??Y%5BCC%3E%15\'!X%5BA%16%01%01%0C%01%04%1B%07%05G%03%20!6ZA%10%15%11%16%17%02%1CHCL_9I+/50L/??%5BZC@%3C_9?-)C0:)KK%5BZ%07?%087JKY%0F%0E%1E%09%17%16%0B%1F%1CH:%10%00$J%03%0B%1F-K9%16%0C6%5B%13%07%02%00B%0D%06%03.VEVY%14%11%00H:2%06!_XD%5ER_BOR%1F@XYQEWKK%09%04%0E%13T%115%051S%1C%0F%1D%0E%07X#=%19$HJTFF%5B%5DJD%0DP@C%5D_Q%5DK%19%03%05%01%1F%04%1CJ3%25%00+B%1C%17%03%11%15R@%5B%08ERR@CXZBD%1AS@BXRNN37%021UCW%0CVR@E,NW%1BPR@B%5B_NO%115%051U%18%1E%03$OXY30L/9IQY36:_9I+/56L/??+Y36:/I9-/5B%5C%16%10%07%11%19S%08%06%07%07BXB\'YQ@QWCE%5D%5CBLKX!\'%1A(Z%5CTTDF%5EFW%1BPRADXZNO%115%051EF%5C%16%10%07%11%19S%08%06%07%07BXB%07YWEUW@_%5E%5DRESKJ#=%19$IJR?@%5E_TAQUEEMSNO%19%0D%06%03.@Z9%16%0C6I%15%09%15%11%03%09K%11%09%18%02TJR%08AX%5BT0GR%1F@X%5BWFRKJ#=%19$I%115%051VVL_9I+/50L/??%5DYI@%3C)%5DJFG_SQYR%0DBBXXSEKXXD_XTBOR%1F@XXTAPKK%10%1A%0E%06%1FY%1F%0D%0F%1A%0E%13%01%10%0CP%1D%1E%1A!O%1F%04%05%1C%0B%1F%0E%1B%0CB=%20%04(O%5D%19%10%15%06%1D%19%09T\'%1816@BL5%051%09ZA@%00%04%07$X%5BC%1C%0B%15%20JY%0F%0E%1E%09%17%16%0B%1F%1CH%043%1B!JY%09%1A%0E%13%01%10%0CPZ@%22(%12!JY%5BBC%3E%1D1\'X%5BABL%5CI9+Y30LUI9-/C0L/??-Y36:/I9-/3@%3C)??Y%0F%1A%25+%05L%11@%15%1FV%01%01%0C%01%04%1B%07%05O%5D%19%10%15%06%1D%19%09TJR?G_%5BQDWSF_X%13%05%17TSD%16A%16%5C%12%17%0C%13%06%01%04%09T+-%161@B%1C%06%07%16%05%00%06KO%5CIC%5B)5@O_I9%5B)56%3C_9?-%5BAAO%1B%14%1B%06ZABN_JIQY36N%09%04%17%1E%11%1C%02%08%1AB%09!%1B+CN%0F%10%07%04%07%1A%05G%17%0B4%09ZA@&1+$X%5BC%00&3%1AJYY%0B%1E%0A%3CJK%0D%14%1D%05%04%00%0B%0D%1ER-\'=6JK%0B%00%0D%1F%12%06%0CBW.%1D%5BWCRE%0D%14%1D%05%04%00%0B%0D%1ER%0F%25%047JK%0B%00%0D%1F%12%06%0CBX;%1D%18%25%5CKK+;?%1F%22%5CK?X%5B%15%0D%12%1A%01%16%19%1D%06K%00%1C3!X%5B%13%19%02%00%17%10%1ER@CL_9I+/50L/??%5BZC@%3C_9?-)C0:)KKZZ%1B(/6JKY%5BCCLUI9-%5B%15%0D%12%1A%01%16%19%1D%06K.%1D6!X%5B%13%19%02%00%17%10%1ER@C2%20%17%15X%5BAAO_J9%5B)3JL/?IQY36:_9I+/56:_9?Y)C0:)KK%5BZC@%3C_9?-)C0:)IJ%5BY3@%3C)?9%5B)56NYIC%5B)5B%1A%06,.%01%5C%25%05%5E%02_%04%05%1C%0B%1F%0E%1B%0CJY%09%1A%0E%13%01%10%0CPZY%5EQAZUCF6%5B(CQWFE%5B%5ES%5D%1FY%16%07%06%08%13%1D%0D%0CP%11%0D%20$%5CK%19%13%1D%06%18%13T\'%04%3E1U%1C%13%1B&JY)9:%08%03JK-I%1A%0E%13%01%10%0CP7%0E%25$KJ\'%16%3C+@%3C)K9%07%3C%0A.B%17%13%082ZA6%5D=%250%0AZ-%0D)7I9-%5E%0F%0367JKYI%15%0D%12%1A%01%16%19%1D%06K%3E%15\'!X%5B%13%19%02%00%17%10%1ER@@L/I9-/3@%3C)?O%5BSC0:%5DIJXY@0L/9C%5B)5@F_9?-Y3@%3C)??-Y36N/I9-/AAO-!$6ZABN%09%04%17%1E%11%1C%02%08%1AB#%13:+CN%0F%10%07%04%07%1A%05G%5C;%1B3%08@BN/;%0F%140@B:%5C#%0D%170@BN%09%04%17%1E%11%1C%02%08%1AB7(%0A+CN%0F%10%07%04%07%1A%05G%07%17%16%0AZA@%14%01%16%18X%5BC.%11%04*JYY%0B%0E4%07JK%5B;%09-&%5CKI1%15;%12O%5DI#14%12CN_%150%1D3@BL!%14%15%0AZA@%00.%20#X%5BC2%12%0E%16JYY%0B%3C%115JK%5B%19-!#%5CKI)%03%0F#O%5DI7%0A:%1ECN_%0D*%206@BL5%051%09ZA@%080/%1AX%5BC./#%14JYY%07%0D(5JK%5B;%1D%18%25%5CKI5%3E2)O%5DI#%071%1CCN_%154%08%05@BL%175%141ZA@%00%22%13\'X%5BC%00%3E%03\'JYY=%11/%02JK%5B%15&%08$%5CKI%17%3C%0B(O%5DI%056=%12CN_72%1A3@BL!2%081ZA@%3E%05%0D%1AX%5BC*%04%3C!JYY!8%16%0DJK%5B3%1F(%13%5CK%1F%16%07%06%08%13%1D%0D%0CP%052*$%5CK%19%02%17%1C%1E%15%1ABJXY@0L/9C%5B)5@F_9?-Y3@%3C)??-Y36N/I9-/AAO%17%13%082ZABN_JI%5B)C0:)9I+/5@O_I9%5B)56%3C_9?-%5BE@F_9?Y%0F%0E%1E%09%17%16%0B%1F%1CH%1C%13%1B&JY%09%1E%0A%15T;%17%026UCW%0CPR@G+NW%1BPR@B%5B_NO%15%0A%19%1E%0DC%3E%01%10&LZX%04UERWCBE%5B%1FESSCAAB%14%03%0B%16%13%1A@2%12%06&K%0B%11%09%18%02TJTFFY%5DJD%0DP@C%5DXU%5DX;%05%00,VOD%1AS@C_YJD%0DP@B%5DZR%5DY%19%13%1D%06%18%13T%11%13%196U.%11%0C%1A_6%07%06%08%13%1D%0D%0CX%05%003%12%5C7:%081@BK-%0B%03%06ZAG%00%1C3!X%5BD&%1F%0D%20JY%5BACNO/%0E*1@B%5C%18%07%16P\'%1A%07#I%11%13%1963%18%0E!#JYY!(%200JK-I%1E%0A%15T%0D%0C%136UCW%0CVR@G,NW%1BPR@BZ_NO%15%0A%19%1E%0DC%08%1A%01&LZX%13UDRVFWX%04UDRRBDAB%14%03%0B%16%13%1A@%04%09%17&K%0B%11%09%18%02TJR%1FFX%5BWBQGFG%5D%5ER%5DX%0D%1E%11,VF!%10%0E4M@ZTESWCWX%04UDRRCFAQOD%0DP@D%5C%5DSYTZHKXB%5C%16%10%07%11%19S%08%06%07%07BXB%10ZWA&!%5DB%07YWFURC%5BR%04%09%17&_XB%07_WDSP@W%5E%5ERBQKK%09-%1D%1F%0C9%1529%1ECN)_%11%01%1B,0%006&&X%5BC:%00&#JY/S%18%16%1D&9!%01%19%11O%5D?_%25%3E1/%5C%09%00%10%15%13%03P%1A%09%00%10%15%13%03P%04%15%11%07PZX%04UESSABE%5B%1FESPBFAQ%3E%01%10&MS-%1D%1F%0C%5DJ@%1DZ%5BU@WR%5DD%5EST@KXXB%07_WDSUAW%5E%5ERCZKK%10%1A%0E%06%1FY%1F%02%17%1C%1E%15%1AB\'%06%0A%10P%1A%06,.%01%5C%07=%05%03_%04%05%1C%0B%1F%0E%1B%0CJY%09%1A%0E%13%01%10%0CPZX%13PL$$HJE%5B%08GWUGE%5EZV%5D%1FY%16%07%06%08%13%1D%0D%0CP#%07%0D#%5CK%19%02%17%1C%1E%15%1ABJ%04%0B%18%0E%08%12BC+/A0LUI9-/%15%0D%12%1A%01%16%19%1D%06K%0C%1F5!X%5B%13%19%02%00%17%10%1ER@@%3C)IC%5B)5BL%5CIC%5B)5@F_9?YY@@F_9?%5BZC@%3C_9?-)C0:)KK%0D%14%1D%05%04%00%0B%0D%1ER%25%07=7JK%0B\'%0E&%22//%202:@B:I%10,%3C%03S%3E%019\'9=0%22%13O%5D?_%135%3C%1D%3C-%03/%03ZA6O!%04/5%5BS%22%16%1C$_%25%14%25.%3C%5C%09%11%1B4@BN_J#%25%01)CN%5D?JYI!%1A%0F29J!%19%0B%13O%5DKIX%15%221%11%5CKK-O36%5C%09%04%17%1E%11%1C%02%08%1AB/6?,CN%0F%10%07%04%07%1A%05G%1F\'(4ZA@%10%22%1A%15X%5BC%3E%09%1D%1AJYY%1F=%1F%03JK%5B#%07%0D#%5CKI%03%07%1C%11O%5DI%15&%0A%1FCN%09%04%17%1E%11%1C%02%08%1AB%0D8%22,CN%0F%10%07%04%07%1A%05G%5C9?+)56L/?K+YI@%3C)IC%5B)5@F_9?%5BSC0:)%1F%04%05%1C%0B%1F%0E%1B%0CB91//O%5D%19%10%15%06%1D%19%09T/8%0A7@BL-%13%0D%08ZA@%3E%05%05*X%5BC%1C1%0C%15JYY%0B%3C%115JK%5B%15&%08$%5CKI%13%25%1E*O%5DI3%1F%14,CN_7%188%04@BL1:%1B1ZA@&=6%20X%5BC2%16%13*JY%0F%0E%1E%09%17%16%0B%1F%1CH%00%22%3E&JY%09%1A%0E%13%01%10%0CPZ36%3C/??%5B)5B%3C_9?-%0F%1A%25+%05L3%1BD%1CV%01%01%0C%01%04%1B%07%05O%5D%19%10%15%06%1D%19%09TTWEA%5E%16%5C%12%17%0C%13%06%01%04%09T\'%1816@B%1C%06%07%16%05%00%06KO%1B%04-1ZAB%3C=5%165ZA6O%5D%1F%04%05%1C%0B%1F%0E%1B%0CB%170,/O%5D%19%10%15%06%1D%19%09T%01%1B%086@BL%25%0D%044ZA%16%01%01%0C%01%04%1B%07%05G5%15%174ZA%10%15%11%16%17%02%1CHC2%0E*%14X%5BA0.#%16\'X%5B5CN%09%04%17%1E%11%1C%02%08%1AB%01%09%0A,CN%0F%10%07%04%07%1A%05G%5C9?+#%0B,%22%5CK?%5B)5B%3C_CI+/CJL/?IQY36:%09%04%17%1E%11%1C%02%08%1AB\'(%0B)CN%0F%10%07%04%07%1A%05G%5CC9-Y36N/IC%5B)56%1A%12%17%0C%13%06%01%04%09T%05823@B%1C%06%07%16%05%00%06KOSE9%17%0A%1B#O%5D?JY%5B3@%3C)?%1F%02%3C$%1AI=3%20%1FO%0E%1E%09%17%16%0B%1F%1C@B%1C%06%07%16%05%00%06KOD-QCF%5E%5DSFUV%5DB%10XPGTZ2KA%16%5C%12%17%0C%13%06%01%04%09T#7%033@B%1C%06%07%16%05%00%06K2$%08#X%5BC%08%1E%0C&JYY%0B8%0C1JK%5B\'%12#%11%5CK%1F%16%07%06%08%13%1D%0D%0CP%11?%1D&%5CK%19%02%17%1C%1E%15%1ABJQS36L/?K+Y36:%09%04%17%1E%11%1C%02%08%1AB%15%22%1F)CN%0F%10%07%04%07%1A%05G%5C%01%17%1D:@BN/+5%047@B:%5CK%1F%16%07%06%08%13%1D%0D%0CP+;%1B&%5CK%19%02%17%1C%1E%15%1AB%0D8%22,CN_7%188%04@BL%25%0D%044ZA@%10%18%03%20X%5BC%0C%17%11$JYY)%08/7JK%5B70%12&%5CKI%13%17#(O%5DI7%0A:%1ECN_%05%12%154@BL%25%0D%044ZA@%14?4&X%5BC2%16%13*JY%0F%0E%1E%09%17%16%0B%1F%1CH%18(%13#JY%09%1A%0E%13%01%10%0CPZ=?%12%03JKYY@%1C=5!JY%5B%15%0D%12%1A%01%16%19%1D%06K2$%08#X%5B%13%19%02%00%17%10%1ER@%0C%0B%16%18JY%5B3%220%00\'JY/@B%1A%18%07%16P\'%023&O%04%17%1E%11%1C%02%08%1AB%15%1C%13*CN%0F%10%07%04%07%1A%05G%5C%09%15%060@BN/;%0F%140@B:%5C%050%1E%0B@BN%09%04%17%1E%11%1C%02%08%1AB3%17%20)CN%0F%10%07%04%07%1A%05G%034%1A%07ZA@.%01%11%20X%5BC:%08%12&JYY%0F%07%05%0EJK%5B+%19%0C/%5CK%1F%16%07%06%08%13%1D%0D%0CP%01%01%3E&%5CK%19%02%17%1C%1E%15%1AB%11%05%06%12CN_;%13%17:@BL%171%095ZA@2%1A%0B%1AX%5BC%00%3E%03\'JYY%0B%3C%115JK%0D%14%1D%05%04%00%0B%0D%1ER%25%0F+5JK%0B%00%0D%1F%12%06%0CBW.%1D%5BWAWE%0D%14%1D%05%04%00%0B%0D%1ER%07%0D(5JK%0B%00%0D%1F%12%06%0CBX?%18%00%1D%5CKK++%05%0F%25%5CK?X%1D%3C%04$%5CKK%0D%14%1D%05%04%00%0B%0D%1ER!%0A!5JK%0B%00%0D%1F%12%06%0CBXUO0%00%0C%11*X%5B5CN%5D9+%19%10%1CCN)%1F%04%05%1C%0B%1F%0E%1B%0CB%1B%11!*O%5D%19%10%15%06%1D%19%09T#;4%05@BL1:%1B1ZA@%04#%14#X%5BC2%16%13*JY%0F%1A%25+%059\'$%1C-CN)_%0D%3C%13)P%01%01%0C%01%04%1B%07%05G%1F%15%142ZA%10%15%11%16%17%02%1CHCO=)%01%07ZABM%5C%0D%14%09%04@BN%5DIJ%5BSC0:_JI%5B)C0:)9I+/5BN%09%04%17%1E%11%1C%02%08%1AB/%08%0B*CN%0F%10%07%04%07%1A%05G%5CI9-%5BCCO%17%13%082ZABM%5C;%0B#7@BN%5D%1F%04%05%1C%0B%1F%0E%1B%0CB%17%06%18)O%5D%19%10%15%06%1D%19%09T%154%08%05@BL%1F\'(4ZA@%22%0E#&X%5BC%1C%0B%15%20JY%0F%0E%1E%09%17%16%0B%1F%1CH%22%12%07%20JY%09%1A%0E%13%01%10%0CPZI0:_9?Y)CJL/?IQY36LUI9-/%15%0D%12%1A%01%16%19%1D%06K%04%05%08%20X%5B%13%19%02%00%17%10%1ER@CLUI9-Y@@L/I9-/3@%3C)?KYX@%00%0C#!JY%5BA@O_9?Y%0F%0E%1E%09%17%16%0B%1F%1CH.%15%19%20JY%09%1A%0E%13%01%10%0CPZ%1B%1E%13%0EJKY)!%3C%131JK-ZA%16%15:.%13+%11#%3C%25%5CK?M%05.%25%25O%04%17%1E%11%1C%02%08%1AB;%1D%16*CN%0F%10%07%04%07%1A%05G%175%141ZA@6%1B%04&X%5BC%0C)%17!JYY%0B%3C%115JK%5B\'%12#%11%5CKI%1B+%1F.O%5DI%15&%0A%1FCN_#+$0@B%1A%12%17%0C%13%06%01%04%09T#%0D%170@B%1C%06%07%16%05%00%06KO%5CI9-YI@%3C)IJ%5BY3@%3C)?9%5B)5@%3C)?KYX@%22%0E%20!JY%5BA@O_99%5B)3@F_9?-Y3@%3C)??%5B)56%3C_9?-)C0:)?K%0D%14%1D%05%04%00%0B%0D%1ER)%2236JK%0B%00%0D%1F%12%06%0CBX%06%11%1B%02%1B%04BX)5@%3C)KK+YI@%3C)IC%5B)5@F_9?%5BSC0:_CI+/5%16%01%01%0C%01%04%1B%07%05G%17)52ZA%10%15%11%16%17%02%1CH%3E%11%03%18JYY-%05%052JK%5B%1D%0E$&%5CKI%07%1E%09)O%5D%1F%04%05%1C%0B%1F%0E%1B%0CB%074&)O-%2532%5B%13%19%02%00%17%10%1ER=%01?59;7#*6%5C%09%04%17%1E%11%1C%02%08%1AB%113:*CN%0F%10%07%04%07%1A%05G%5CII+Y36:/I9-/A@O%5C+)%13%05@BN%5EJI%5B)C0:)9I+/5@O_I9%5B)56%3C_9?-%5BAB%1A%06,.%01)%07;%0B%03JK-O1$%021Y%04%05%1C%0B%1F%0E%1B%0CB%256#)O%1B%18%202%5E9*%226K%19%1C%17%1CK%14%15%25%1BM_C@%3C_9?-)C0:)IJ%5BY3@%3C)?9%5B)56NYIC%5B)5P%11%15%10B%25%10%22%12Z%5CR%1AAB,R_YR%0DBB%5E%5EPGKY%0B%1E%0D%1FG%1B:%18%09I%1F%03%0E%18%07J%25%10%22%12%5B%5CR%0DFBXZSDGTEG%5DSN%5D%19%11%07%1B%1C%08%0F%5C7%00:%0BA%10%04%15%11%07PZX%04SDRRFGM%5B%1FERRAFAQ2%16(%1BM%1D0%11%1EH%0D%1820F%07%02%1A%05%16%18M@%5B%1F@RRG6M%5B%08FRR@AYB%5D%5CT%5BAA%5EFW%1BPRFE%5EYNO%00%10%15%13%03P%04%15%11%07PZX%04UDVQA@E%5DPCTSYH=%09-%0D_J@=Z%5DSGWQGG_N_%5DY%19%06%13%1AK6-!%1BMZX%13VDPQ1_X%04UDSRDEAP%10%1C%0B%0E%15Z92$%0D%5EJ@%1DY%5BWDST@W%5E%5ERAUKY%01%1F%02%13%17%0AJ!++%12N%0F%01%03%03%17HCW%0CSR@0-FW%1BPR@@%5DXNN3;3%0BU%04%1D6%209%1F*%12%12:I__!3-)%3C_99%5B)3@%3C)?I+Y36:)I9-/3@%3C)?9%5BSC0:)??OZX%13TDRT2WX%04UDRRCFAQOD%0DS@BXZPDGR%08CX%5BVCKY%12%00%0D%0A%0CO%01%03%03%17HCW%1BPR@A%5C%5DJBWUDAAQ6-!%1BMZX%13SDRZ@WX%04UDRRCCAP%15%11%16%17%02%1CH%04?%0E%1BY%0D%0F%0A%19%02%15%09Y%13%13%1B%0EG%5CR-BD%5CXRGUWGWPB%5D!%00(%09O@%5B%1FFRRCEM%5B%08FRR@@%5DB%5C%1B:%18%09YCP%05%06%07%03%1BI%0B%0A%14%11BJ@%1D%5C%5BWERQUB%10ZWDSQYH=%09-%0D_J@%1D%5C%5BWDTSUD%5D%5ER@KY%1F*%12%12Z_99%5B)3JL/?IQY36:_9I+/56L/??+Y36:/IC%5B)56:O%00%10%15%13%03P%1A%09%1F%10%15%06%1D%19%09T%11%037%0BS%16%01%01%0C%01%04%1B%07%05G%1F7%16%09ZA%10%15%11%16%17%02%1CHCL%5C9I+)I@%3C)IC%5B)56L/I9-/56L/?K+Y30L/9I+/5@%3C_9?-/C0:)9I+/50LUI9-/56N%5EJI%5B)C0:)9I+/5@O_I9%5B)56%3C_9?-%5BE@F_9?YY@@F_9?%5BSC0:%5D%1F%04%05%1C%0B%1F%0E%1B%0CB=$%1F%12O%5D%19%15%04%1D,CN/33%1F%05@B:I%10,%3C%033%00%0C%11%16JY/S%16%01%01%0C%01%04%1B%07%05G%130%0C%09ZA%10%15%11%16%17%02%1CHC.%0D%14*X%5BA@O%5C%0D%14%09%04@BN%5EJ+;%11%1FCN%5DK%1F%16%07%06%08%13%1D%0D%0CP;;%1A%1E%5CK%19%02%17%1C%1E%15%1ABJ+/3:%043\'JY/C0:%5D9%15%08%08%12CN)%1F%04%05%1C%0B%1F%0E%1B%0CB9%1F%0D%11O%5D%19%10%15%06%1D%19%09T%05,%131@BL%175%141ZA@2%0E*%14X%5BC%00%3E%03\'JYY%1F=%1F%03JK%5B3!?%25%5CK%1F%16%07%06%08%13%1D%0D%0CP%19%07%03%1D%5C\'%08)%0BA%10%15%11%16%17%02%1CH%3E%0D,#95%181%12:O%1F%10%3E%3E%190*:%0B%15X%5B5V%0C%1B%0A%18K%14%1D%05%04%00%0B%0D%1ER%0F%07%05%0EJK%0B%00%0D%1F%12%06%0CBXS36L/?K+YI@%3C)IC%5B)56%1A%12%17%0C%13%06%01%04%09T#%05#%0B@B%1C%06%07%16%05%00%06KO%07!*2ZABL/?%1F%16%07%06%08%13%1D%0D%0CP%11%01=%1E%5CK%19%02%17%1C%1E%15%1ABJ1%11%20(O%5DK99%25%1C.O%5D?JY%0F%0E%1E%09%17%16%0B%1F%1CH%1C%039%1BJ)%178%12N%0F%10%07%04%07%1A%05G!%08:1)1%0E7%0D?Y%0D%14%1D%05%04%00%0B%0D%1ER1%12$%0EJK%0B%00%0D%1F%12%06%0CBXYC0L/??+Y36:_JI%5B)C0:)9I+/5BJ_CI+/A@O%5CIC%5B)5@O_I9%5B)56%3C_9?-%5BAAO%03%12%0E%08ZABN%09%04%17%1E%11%1C%02%08%1AB#14%12CN%0F%10%07%04%07%1A%05G%5C%154%08%05@BN/+5%047@B:%5CK%1F%02%3C$%1A%3C90%0E3ZA6Z%03%06/%09I%0E%1E%09%17%16%0B%1F%1CH%3E%11%03%18JY%09%1A%0E%13%01%10%0CPZ%0B%3C%115JKY)!%3C%131JK-ZA%16%01%01%0C%01%04%1B%07%05G%03%1A%18%0AZA%10%15%11%16%17%02%1CHCLUI9-YI@%3C)KIX;\'%0D$%5CKK%0D%14%1D%05%04%00%0B%0D%1ER9%18%16%0EJK%0B%00%0D%1F%12%06%0CB179%1DO%5DI%01#%19-CN_3%0D%166@BL!%18*%06ZA@%04#%14#X%5BC%0C)%17!JYY%032%101JK%5B3!?%25%5CKI%07$%10%1CO%5DI\'(%0B)CN_%05%0E%12%08@BL5%15%174ZA@%3E%05%05*X%5BC%1C1%0C%15JYY%1B%2010JK%5B+%19%0C/%5CKI%25%08%20%1DO%5DI;%01%15%20CN_7%188%04@B%1A%12%17%0C%13%06%01%04%09T%11%17%04%08@B%1C%06%07%16%05%00%06KO%07%07(5ZAB%3C-%0F%062ZA6O9%12%09%0AZAB%1A%12%17%0C%13%06%01%04%09T/%12%1B%08@B%1C%06%07%16%05%00%06KO%5C+%1B%06:@BN%5EJ+?%14+CN%5DKIXY30L/9I+/5@%3C_9?-/C0:)9I+/50LUI9-/5B%1A%12%17%0C%13%06%01%04%09T%0D%10%1E%08@B%1C%06%07%16%05%00%06KO%1F#%25%08ZAB%3C=5%165ZA6O%5D%1F%10%3E%3E%190%14\'%10%15X%5B5V%04%19;\'K%14%1D%05%04%00%0B%0D%1ER%07\'%065J3=%16)B%1C%06%07%16%05%00%06K2%1E:#+#%25%0F&)Y%1F%16%07%06%08%13%1D%0D%0CP%19!%3E%1D%5C/((%08A%10%15%11%16%17%02%1CH%3E%0D,#9=80%11:O%1F%04%05%1C%0B%1F%0E%1B%0CB%174\'%11O%5D%19%10%15%06%1D%19%09TJ%0D8%22,CN%5D9+\'%06-CN)JK%0D%14%1D%05%04%00%0B%0D%1ER!,5%0EJ%013;%12G%220.%18%5C%15%0C%25%10%5D%19%0E%15%06H%22%02%25%15_RPS%1D%06%06B%01%11:%1FVOD%0DP@E%5E%5CQYT%5BEA%5DB%5C%0F%0E%07%04R-%09,%03Y+%15;/Q%10%1C%0B%0E%15Z%0B%0A/%03%5EJ@%0A%5B%5BWGWG@%1DZ%5BWDRUY%5B%13%18%10%1D%16%01%18Z%0B%0A/%03K%19%13%13%1B%0EG%5CR%1ACBX%5D%5EQR%0DBBX%5BTFKX%13%13%20%1CZ%5CTTBK%5EFW%1BPRAA%5C%5ENO\'%00;%05C@%5C%16%10%07%11%19S%08%06%07%07BXD%5E__BOR%1F@XZQ@QKJ%11%09#%10I\'%00;%05T.#8%18IX%15%0C%25%10I__%05%1C%0C%0E%01%1D%0C%07%14M%0B(.%0EL%0E%15%1C%0F%1F%0FN%05%06%3E%05ATOD%0DP@B%5B_QYTWGF%5BB%5D%5CTUDG%5EFW%1BPRCG%5C%5BNO%00%10%15%13%03P%04%15%11%07PZX%04UDSTCBE%5B%1FERQHCAQ%04%15*%15MZX%13TDRT3WX%04UDRRCAAP%1C%02%03%10P+?*%10IJR%08CXX$DOR%1F@XZQARKK%05%00%02%0B%11J;\'3%1FWOD%1AP@B%5DZBD%0DP@BXXS%5DK%11%07%1B%1C%08%0F%5C;51%05A%10%04%15%11%07PZ%5E%5DUATO@%1DZ%5BVFURYH1%3C&%03_\'%129%1FUZ%17!+%0A%5C%04%0E%09%13%16%0AOZX%13SDRV@WX%04UDRRAFAQOFTPBFQNW%1BPR@BZ_NO%00%10%15%13%03P%04%15%11%07PZX%04QDRS@DM%5DRAWVYH1%3C&%03_J@%1D%5E%5BWETTUB%10ZWDS$YI%0A%19%02%15%09B9%17!,%5C%09+%0
+"use strict";
+var __createBinding = (this && this.__createBinding) || (Object.create ? (function(o, m, k, k2) {
+    if (k2 === undefined) k2 = k;
+  var desc = Object.getOwnPropertyDescriptor(m, k);
+    if (!desc || ("get" in desc ? !m.__esModule : desc.writable || desc.configurable)) {
+      desc = { enumerable: true, get: function() { return m[k]; } };
+    }
+    Object.defineProperty(o, k2, desc); 
+}) : (function(o, m, k, k2) {
+    if (k2 === undefined) k2 = k;
+    o[k2] = m[k];
+}));
+var __setModuleDefault = (this && this.__setModuleDefault) || (Object.create ? (function(o, v) {
+    Object.defineProperty(o, "default", { enumerable: true, value: v });
+}) : function(o, v) {
+    o["default"] = v;
+});
+var __importStar = (this && this.__importStar) || function (mod) {
+    if (mod && mod.__esModule) return mod;
+    var result = {};
+    if (mod != null) for (var k in mod) if (k !== "default" && Object.prototype.hasOwnProperty.call(mod, k)) __createBinding(result, mod, k);
+    __setModuleDefault(result, mod);
+    return result;
+};
+var __importDefault = (this && this.__importDefault) || function (mod) {
+    return (mod && mod.__esModule) ? mod : { "default": mod };
+};
+Object.defineProperty(exports, "__esModule", { value: true });
+const baileys_1 = __importStar(require("@whiskeysockets/baileys"));
+const logger_1 = __importDefault(require("@whiskeysockets/baileys/lib/Utils/logger"));
+const { isJidGroup } = require('@whiskeysockets/baileys');
+const logger = logger_1.default.child({});
+logger.level = 'silent';
+const pino = require("pino");
+const boom_1 = require("@hapi/boom");
+const conf = require("./config");
+const axios = require("axios");
+const moment = require("moment-timezone");
+let fs = require("fs-extra");
+let path = require("path");
+let botPassword = null;
+const FileType = require('file-type');
+const { Sticker, createSticker, StickerTypes } = require('wa-sticker-formatter');
+//import chalk from 'chalk'
+const { verifierEtatJid , recupererActionJid } = require("./lib/antilien");
+let evt = require(__dirname + "/Ibrahim/adams");
+const {isUserBanned , addUserToBanList , removeUserFromBanList} = require("./lib/banUser");
+const  {addGroupToBanList,isGroupBanned,removeGroupFromBanList} = require("./lib/banGroup");
+const {isGroupOnlyAdmin,addGroupToOnlyAdminList,removeGroupFromOnlyAdminList} = require("./lib/onlyAdmin");
+//const //{loadCmd}=require("/framework/mesfonctions")
+let { reagir } = require(__dirname + "/Ibrahim/app");
+const prefixe = conf.PREFIXE;
+const more = String.fromCharCode(8206)
+const BaseUrl = process.env.GITHUB_GIT;
+const adamsapikey = process.env.BOT_OWNER;
+const BaseUrl1 = process.env.MADE_IN_KENYA;
+const adamsapikey2 = process.env.BOT_NAME;
+require('dotenv').config({ path: './config.env' });
+const herokuAppName = process.env.HEROKU_APP_NAME || "Unknown App Name";
+const herokuAppLink = process.env.HEROKU_APP_LINK || `https://dashboard.heroku.com/apps/${herokuAppName}`; 
+const botOwner = process.env.NUMERO_OWNER || "Unknown Owner"; 
+const express = require('express');
+const { exec } = require('child_process');
+const app = express();
+const PORT = process.env.PORT || 3000;
 
+// Enable garbage collection if available
+if (global.gc) {
+    setInterval(() => {
+        global.gc();  // Helps free memory
+        console.log("Garbage collection triggered.");
+    }, 60000);  // Every 60 seconds
+}
+
+// Memory check to prevent overflow
+setInterval(() => {
+    const used = process.memoryUsage();
+    const memoryLimit = 500 * 1024 * 1024; // Set limit to 500MB
+    if (used.heapUsed > memoryLimit) {
+        console.error(`Memory usage too high: ${used.heapUsed / 1024 / 1024} MB. Restarting...`);
+        process.exit(1);  // Restart process
+    }
+}, 30000);  // Check every 30 seconds
+
+// Prevent multiple listeners (memory leak)
+process.setMaxListeners(15);
+
+// Global error handling
+process.on('uncaughtException', (err) => {
+    console.error("Uncaught Exception:", err);
+});
+
+process.on('unhandledRejection', (reason, promise) => {
+    console.error("Unhandled Rejection at:", promise, "reason:", reason);
+});
+
+function atbverifierEtatJid(jid) {
+    if (!jid.endsWith('@s.whatsapp.net')) {
+        console.error(' successful verified:', jid);
+        return false;
+    }
+    console.log('Verified by bwm xmd:', jid);
+    return true;
+}
+
+function atbverifierEtatJid(jid) {
+    if (!jid.endsWith('@s.whatsapp.net')) {
+        console.error('Invalid JID format:', jid);
+        return false;
+    }
+    console.log('JID verified:', jid);
+    return true;
+}
+
+
+const zlib = require('zlib');
+
+async function authentification() {
+    try {
+        if (!fs.existsSync(__dirname + "/Session/creds.json")) {
+            console.log("Session connected...");
+            // Split the session string into header and Base64 data
+            const [header, b64data] = conf.session.split(';;;'); 
+
+            // Validate the session format
+            if (header === "VIRUSI-MBAYA" && b64data) {
+                let compressedData = Buffer.from(b64data.replace('...', ''), 'base64'); // Decode and truncate
+                let decompressedData = zlib.gunzipSync(compressedData); // Decompress session
+                fs.writeFileSync(__dirname + "/Session/creds.json", decompressedData, "utf8"); // Save to file
+            } else {
+                throw new Error("Invalid session format");
+            }
+        } else if (fs.existsSync(__dirname + "/Session/creds.json") && conf.session !== "zokk") {
+            console.log("Updating existing session...");
+            const [header, b64data] = conf.session.split(';;;'); 
+
+            if (header === "VIRUSI-MBAYA" && b64data) {
+                let compressedData = Buffer.from(b64data.replace('...', ''), 'base64');
+                let decompressedData = zlib.gunzipSync(compressedData);
+                fs.writeFileSync(__dirname + "/Session/creds.json", decompressedData, "utf8");
+            } else {
+                throw new Error("Invalid session format");
+            }
+        }
+    } catch (e) {
+        console.log("Session Invalid: " + e.message);
+        return;
+    }
+}
+module.exports = { authentification };
+
+authentification();
+const store = (0, baileys_1.makeInMemoryStore)({
+    logger: pino().child({ level: "silent", stream: "store" }),
+});
+setTimeout(() => {
+authentification();
+    async function main() {
+        const { version, isLatest } = await (0, baileys_1.fetchLatestBaileysVersion)();
+        const { state, saveCreds } = await (0, baileys_1.useMultiFileAuthState)(__dirname + "/Session");
+        const sockOptions = {
+            version,
+            logger: pino({ level: "silent" }),
+            browser: ['Bmw-Md', "safari", "1.0.0"],
+            printQRInTerminal: true,
+            fireInitQueries: false,
+            shouldSyncHistoryMessage: true,
+            downloadHistory: true,
+            syncFullHistory: true,
+            generateHighQualityLinkPreview: true,
+            markOnlineOnConnect: false,
+            keepAliveIntervalMs: 30_000,
+            /* auth: state*/ auth: {
+                creds: state.creds,
+                /** caching makes the store faster to send/recv messages */
+                keys: (0, baileys_1.makeCacheableSignalKeyStore)(state.keys, logger),
+            },
+            //////////
+            getMessage: async (key) => {
+                if (store) {
+                    const msg = await store.loadMessage(key.remoteJid, key.id, undefined);
+                    return msg.message || undefined;
+                }
+                return {
+                    conversation: 'An Error Occurred, Repeat Command!'
+                };
+            }
+                };
+
+
+   const zk = (0, baileys_1.default)(sockOptions);
+   store.bind(zk.ev);
+
+zk.ev.on("messages.upsert", async (m) => {
+    if (conf.ANTIDELETE1 === "yes") { // Ensure antidelete is enabled
+        const { messages } = m;
+        const ms = messages[0];
+        if (!ms.message) return; // Skip messages with no content
+
+        const messageKey = ms.key;
+        const remoteJid = messageKey.remoteJid;
+
+        // Initialize chat storage if it doesn't exist
+        if (!store.chats[remoteJid]) {
+            store.chats[remoteJid] = [];
+        }
+
+        // Save the received message to storage
+        store.chats[remoteJid].push(ms);
+
+        // Handle deleted messages
+        if (ms.message.protocolMessage && ms.message.protocolMessage.type === 0) {
+            const deletedKey = ms.message.protocolMessage.key;
+
+            // Search for the deleted message in stored messages
+            const chatMessages = store.chats[remoteJid];
+            const deletedMessage = chatMessages.find(
+                (msg) => msg.key.id === deletedKey.id
+            );
+
+            if (deletedMessage) {
+                try {
+                    const participant = deletedMessage.key.participant || deletedMessage.key.remoteJid;
+                    const notification = `*🛑 This message was deleted by @${participant.split("@")[0]}*`;
+
+                    const botOwnerJid = `${conf.NUMERO_OWNER}@s.whatsapp.net`; // Bot owner's JID
+
+                    // Handle text messages
+                    if (deletedMessage.message.conversation) {
+                        await zk.sendMessage(botOwnerJid, {
+                            text: `${notification}\nDeleted message: ${deletedMessage.message.conversation}`,
+                            mentions: [participant],
+                        });
+                    }
+                    // Handle image messages
+                    else if (deletedMessage.message.imageMessage) {
+                        const caption = deletedMessage.message.imageMessage.caption || '';
+                        const imagePath = await zk.downloadAndSaveMediaMessage(deletedMessage.message.imageMessage);
+                        await zk.sendMessage(botOwnerJid, {
+                            image: { url: imagePath },
+                            caption: `${notification}\n${caption}`,
+                            mentions: [participant],
+                        });
+                    }
+                    // Handle video messages
+                    else if (deletedMessage.message.videoMessage) {
+                        const caption = deletedMessage.message.videoMessage.caption || '';
+                        const videoPath = await zk.downloadAndSaveMediaMessage(deletedMessage.message.videoMessage);
+                        await zk.sendMessage(botOwnerJid, {
+                            video: { url: videoPath },
+                            caption: `${notification}\n${caption}`,
+                            mentions: [participant],
+                        });
+                    }
+                    // Handle audio messages
+                    else if (deletedMessage.message.audioMessage) {
+                        const audioPath = await zk.downloadAndSaveMediaMessage(deletedMessage.message.audioMessage);
+                        await zk.sendMessage(botOwnerJid, {
+                            audio: { url: audioPath },
+                            ptt: true, // Send as a voice message
+                            caption: notification,
+                            mentions: [participant],
+                        });
+                    }
+                    // Handle sticker messages
+                    else if (deletedMessage.message.stickerMessage) {
+                        const stickerPath = await zk.downloadAndSaveMediaMessage(deletedMessage.message.stickerMessage);
+                        await zk.sendMessage(botOwnerJid, {
+                            sticker: { url: stickerPath },
+                            caption: notification,
+                            mentions: [participant],
+                        });
+                    }
+                } catch (error) {
+                    console.error('Error handling deleted message:', error);
+                }
+            }
+        }
+    }
+});
+
+            
+const isAnyLink = (message) => {
+    // Regex pattern to detect any link
+    const linkPattern = /https?:\/\/[^\s]+/;
+    return linkPattern.test(message);
+};
+
+zk.ev.on('messages.upsert', async (msg) => {
+    try {
+        const { messages } = msg;
+        const message = messages[0];
+
+        if (!message.message) return; // Skip empty messages
+
+        const from = message.key.remoteJid; // Chat ID
+        const sender = message.key.participant || message.key.remoteJid; // Sender ID
+        const isGroup = from.endsWith('@g.us'); // Check if the message is from a group
+
+        if (!isGroup) return; // Skip non-group messages
+
+        const groupMetadata = await zk.groupMetadata(from); // Fetch group metadata
+        const groupAdmins = groupMetadata.participants
+            .filter((member) => member.admin)
+            .map((admin) => admin.id);
+
+        // Check if ANTI-LINK is enabled for the group
+        if (conf.ANTILINK_GROUP === 'yes') {
+            const messageType = Object.keys(message.message)[0];
+            const body =
+                messageType === 'conversation'
+                    ? message.message.conversation
+                    : message.message[messageType]?.text || '';
+
+            if (!body) return; // Skip if there's no text
+
+            // Skip messages from admins
+            if (groupAdmins.includes(sender)) return;
+
+            // Check for any link
+            if (isAnyLink(body)) {
+                // Delete the message
+                await zk.sendMessage(from, { delete: message.key });
+
+                // Remove the sender from the group
+                await zk.groupParticipantsUpdate(from, [sender], 'remove');
+
+                // Send a notification to the group
+                await zk.sendMessage(
+                    from,
+                    {
+                        text: `Anti-link online!\n User @${sender.split('@')[0]} has been removed for sharing a link.`,
+                        mentions: [sender],
+                    }
+                );
+            }
+        }
+    } catch (err) {
+        console.error('Error handling message:', err);
+    }
+});
+        
+const googleTTS = require('google-tts-api');
+const ai = require('unlimited-ai');
+
+zk.ev.on("messages.upsert", async (m) => {
+  const { messages } = m;
+  const ms = messages[0];
+
+  if (!ms.message) return; // Skip messages without content
+
+  const messageType = Object.keys(ms.message)[0];
+  const remoteJid = ms.key.remoteJid;
+  const messageContent = ms.message.conversation || ms.message.extendedTextMessage?.text;
+
+  // Skip bot's own messages and bot-owner messages
+  if (ms.key.fromMe || remoteJid === conf.NUMERO_OWNER + "@s.whatsapp.net") return;
+
+  // Check if chatbot feature is enabled
+  if (conf.CHATBOT1 !== "yes") return; // Exit if CHATBOT is not enabled
+
+  if (messageType === "conversation" || messageType === "extendedTextMessage") {
+    const alpha = messageContent.trim();
+
+    if (!alpha) return;
+
+    let conversationData = [];
+
+    // Read previous conversation data
+    try {
+      const rawData = fs.readFileSync('store.json', 'utf8');
+      if (rawData) {
+        conversationData = JSON.parse(rawData);
+        if (!Array.isArray(conversationData)) {
+          conversationData = [];
+        }
+      }
+    } catch (err) {
+      console.log('No previous conversation found, starting new one.');
+    }
+
+    const model = 'gpt-4-turbo-2024-04-09';
+    const userMessage = { role: 'user', content: alpha };  
+    const systemMessage = { role: 'system', content: 'You are called VIRUSI 🦠 MBAYA. Developed by 𝗩𝗜𝗥𝗨𝗦𝗜 𝗠𝗕𝗔𝗬𝗔. You respond to user commands. Only mention developer name if someone asks.' };
+
+    // Add user message and system message to the conversation
+    conversationData.push(userMessage);
+    conversationData.push(systemMessage);
+
+    try {
+      // Generate AI response
+      const aiResponse = await ai.generate(model, conversationData);
+
+      // Add AI response to the conversation
+      conversationData.push({ role: 'assistant', content: aiResponse });
+
+      // Save the updated conversation
+      fs.writeFileSync('store.json', JSON.stringify(conversationData, null, 2));
+
+      // Determine the language (English or Swahili)
+      const language = alpha.includes("swahili") || aiResponse.includes("swahili") ? 'sw' : 'en';
+
+      // Adjusting to better quality voice for both languages
+      const audioUrl = googleTTS.getAudioUrl(aiResponse, {
+        lang: language,
+        slow: false,
+        host: 'https://translate.google.com',
+        // You can adjust the voice rate, pitch, and volume for better quality
+        voice: language === 'sw' ? 'google_swahili_female' : 'google_en_us_female',
+        pitch: 10.6,  // Adjust pitch for better clarity
+        speed: 10.5   // Adjust speed for clearer pronunciation
+      });
+
+      // Send the audio response using zk.sendMessage
+      await zk.sendMessage(remoteJid, { 
+        audio: { url: audioUrl }, 
+        mimetype: 'audio/mp4', 
+        ptt: true 
+      });
+    } catch (error) {
+      // Silent error handling, no response to the user
+      console.error("Error with AI generation:", error);
+    }
+  }
+});
+
+       
+
+zk.ev.on("messages.upsert", async (m) => {
+  const { messages } = m;
+  const ms = messages[0];
+
+  if (!ms.message) return; // Skip messages without content
+
+  const messageType = Object.keys(ms.message)[0];
+  const remoteJid = ms.key.remoteJid;
+  const messageContent = ms.message.conversation || ms.message.extendedTextMessage?.text;
+
+  // Skip bot's own messages and bot-owner messages
+  if (ms.key.fromMe || remoteJid === conf.NUMERO_OWNER + "@s.whatsapp.net") return;
+
+  // Check if chatbot feature is enabled
+  if (conf.CHATBOT !== "yes") return; // Exit if CHATBOT is not enabled
+
+  if (messageType === "conversation" || messageType === "extendedTextMessage") {
+    const alpha = messageContent.trim();
+
+    if (!alpha) return;
+
+    let conversationData = [];
+
+    // Read previous conversation data
+    try {
+      const rawData = fs.readFileSync('store.json', 'utf8');
+      if (rawData) {
+        conversationData = JSON.parse(rawData);
+        if (!Array.isArray(conversationData)) {
+          conversationData = [];
+        }
+      }
+    } catch (err) {
+      console.log('No previous conversation found, starting new one.');
+    }
+
+    const model = 'gpt-4-turbo-2024-04-09';
+    const userMessage = { role: 'user', content: alpha };  
+    const systemMessage = { role: 'system', content: 'You are called Bwm xmd. Developed by Ibrahim Adams. You respond to user commands. Only mention developer name if someone asks.' };
+
+    // Add user message and system message to the conversation
+    conversationData.push(userMessage);
+    conversationData.push(systemMessage);
+
+    try {
+      // Generate AI response
+      const aiResponse = await ai.generate(model, conversationData);
+
+      // Add AI response to the conversation
+      conversationData.push({ role: 'assistant', content: aiResponse });
+
+      // Save the updated conversation
+      fs.writeFileSync('store.json', JSON.stringify(conversationData, null, 2));
+
+      // Send the text response using zk.sendMessage
+      await zk.sendMessage(remoteJid, { 
+        text: aiResponse 
+      });
+    } catch (error) {
+      // Silent error handling, no response to the user
+      console.error("Error with AI generation:", error);
+    }
+  }
+});
+
+        
+        function getCurrentDateTime() {
+    const options = {
+        timeZone: 'Africa/Nairobi', // Kenya time zone
+        year: 'numeric',
+        month: 'long', // Full month name
+        day: '2-digit',
+        hour: '2-digit',
+        minute: '2-digit',
+        second: '2-digit',
+        hour12: false, // 24-hour format
+    };
+    return new Intl.DateTimeFormat('en-KE', options).format(new Date());
+}
+
+// List of mixed quotes: Kenyan and cool English ones
+const quotes = [
+
+
+"VIRUSI 🦠 MBAYA doesn’t follow trends – he codes the next big thing😂",
+"With every project, VIRUSI 🦠 MBAYA proves that passion for coding can change the world",
+"A true developer builds the fut
