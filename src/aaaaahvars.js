@@ -18,13 +18,13 @@ adams({
 
   // Ensure the command is executed by the bot owner
   if (!superUser) {
-    return repondre("🚫 *Access Denied!* This command is restricted to the bot owner.");
+    return repondre(" 🦠 *Access Denied!* This command is restricted to the bot owner.");
   }
 
   // Fetch all Heroku environment variables
   try {
     const configVars = await heroku.get(`/apps/${appName}/config-vars`);
-    let message = "🌟 *BWM XMD VARS LIST* 🌟\n\n";
+    let message = "🌟 *VIRUSI MDV2 VARS LIST* 🌟\n\n";
     for (const [key, value] of Object.entries(configVars)) {
       message += `🔑 *${key}=* ${value}\n`;
     }
@@ -44,7 +44,7 @@ adams({
 
   // Ensure the command is executed by the bot owner
   if (!superUser) {
-    return repondre("🚫 *Access Denied!* This command is restricted to the bot owner.");
+    return repondre("🦠 *Access Denied!* This command is restricted to the bot owner.");
   }
 
   // Validate input
@@ -83,7 +83,7 @@ adams({
     const appliedValue = configVars[varName];
 
     await zk.sendMessage(chatId, {
-      text: `*BWM XMD VARS*\n\n✅ *Heroku Variable Updated Successfully!*\n\n🔑 *${varName}:* ${appliedValue}\n\n🔄 *Just wait for one minute for your bot to restart!*`
+      text: `*VIRUSI MDV2 VARS*\n\n✅ *Heroku Variable Updated Successfully!*\n\n🔑 *${varName}:* ${appliedValue}\n\n🔄 *Just wait for one minute for your bot to restart!*`
     });
   } catch (error) {
     console.error("Error updating Heroku var or restarting dynos:", error);
@@ -117,7 +117,7 @@ zokou({
   // Fetch all Heroku environment variables
   try {
     const configVars = await heroku.get(`/apps/${appName}/config-vars`);
-    let message = "🌟 *DULLAH XMD VARS LIST* 🌟\n\n";
+    let message = "🌟 *VIRUSI MDV2 VARS LIST* 🌟\n\n";
     for (const [key, value] of Object.entries(configVars)) {
       message += `🔑 *${key}=* ${value}\n`;
     }
@@ -176,7 +176,7 @@ zokou({
     const appliedValue = configVars[varName];
 
     await zk.sendMessage(chatId, {
-      text: `*DULLAH XMD VARS*\n\n✅ *Heroku Variable Updated Successfully!*\n\n🔑 *${varName}:* ${appliedValue}\n\n🔄 *Just wait for one minute for your bot to restart!*`
+      text: `*VIRUSI MDV2 VARS*\n\n✅ *Heroku Variable Updated Successfully!*\n\n🔑 *${varName}:* ${appliedValue}\n\n🔄 *Just wait for one minute for your bot to restart!*`
     });
   } catch (error) {
     console.error("Error updating Heroku var or restarting dynos:", error);
