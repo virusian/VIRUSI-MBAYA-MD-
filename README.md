@@ -1,6 +1,6 @@
 <p align="center">  
-  <a href="https://storage.giftedtech.web.id/file/download/SzwsE.jpg">
-    <img alt="VIRUSI-MBAYA-MDV2" height="300" src="https://storage.giftedtech.web.id/file/download/SzwsE.jpg">
+  <a href="https://files.catbox.moe/v3gnev.jpg">
+    <img alt="VIRUSI-MBAYA-MDV2" height="300" src="https://files.catbox.moe/v3gnev.jpg">
     <h1 align="center"> 🦠VIRUSI-MBAYA-MDV2 - POWERED BY VIRUSI 🦠 MBAYA HIV🦠</h1>
   </a>
 </p>  
