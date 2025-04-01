@@ -2047,9 +2047,9 @@ zk.ev.on('group-participants.update', async (group) => {
         // Handle welcome message when a member joins the group
         if (group.action === 'add' && (await recupevents(group.id, "welcome")) === 'on') {
             let msg = `
-╭────────────━⊷
+╭────────────━
 ║VIRUSI-MBAYA ᴡᴇʟᴄᴏᴍᴇ ᴍᴇssᴀɢᴇ🦠
-╰────────────━⊷\n`;
+╰────────────━\n`;
             let membres = group.participants;
 
             // Add each member who joined to the welcome message, including their member number
@@ -2060,12 +2060,12 @@ zk.ev.on('group-participants.update', async (group) => {
             }
 
             msg += `\n*Feel free to introduce yourself and engage in meaningful discussions. Read Group description 🦠!*\n\n
-╭──────────━⊷🦠
+╭──────────🦠
 ║  *🦠ғᴏʟʟᴏᴡ ᴏᴜʀ ᴄʜᴀɴɴᴇʟ🦠*
 ║  *🦠ғᴏʀ ʙᴏᴛ ᴜᴘᴅᴀᴛᴇs🦠*
 ║ ~🦠ᴛᴀᴘ ᴏɴ ᴛʜᴇ ʟɪɴᴋ🦠~
 ║ 🦠https://url-shortener.me/OGX🦠
-╰──────────━⊷🦠`;
+╰──────────🦠`;
 
             // Send welcome message with the group profile picture
             await zk.sendMessage(group.id, {
@@ -2080,9 +2080,9 @@ zk.ev.on('group-participants.update', async (group) => {
         // Handle goodbye message when a member leaves the group
         else if (group.action === 'remove' && (await recupevents(group.id, "goodbye")) === 'on') {
 let msg = `
-╭────────────━⊷
+╭────────────
 ║VIRUSI-MBAYA ɢᴏᴏᴅʙʏᴇ ᴍᴇssᴀɢᴇ🦠
-╰────────────━⊷          
+╰────────────          
             
 > 💔 One of our members left this group:\n`;
             let membres = group.participants;
@@ -2096,12 +2096,12 @@ let msg = `
             msg += `\n
             
 > 🦠We hope to see you simp to join again someday!\n\n
-╭──────────━⊷🦠
+╭──────────🦠
 ║  *🦠ғᴏʟʟᴏᴡ ᴏᴜʀ ᴄʜᴀɴɴᴇʟ🦠*
 ║  *🦠ғᴏʀ ʙᴏᴛ ᴜᴘᴅᴀᴛᴇs🦠*
 ║ ~🦠ᴛᴀᴘ ᴏɴ ᴛʜᴇ ʟɪɴᴋ🦠~
 ║ 🦠https://url-shortener.me/OGX🦠
-╰──────────━⊷🦠`;
+╰──────────🦠`;
 
             // Send goodbye message with mentions
             await zk.sendMessage(group.id, {
