@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://buymeacoffee.com/virusimbaya" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-brown.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;">
   </a>
 </p>
 
@@ -79,5 +79,7 @@ If you like this project, don't forget to ⭐ the repo!
 ---
 
 **© 2025 VIRUSI-MBAYA-MDV2 | Built with 🦠 by VIRUSI 🦠 MBAYA HIV**
+---
+
 **Special Thanks to Stainer C and PHYNIC💦**
 
