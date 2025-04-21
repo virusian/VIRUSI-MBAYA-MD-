@@ -81,8 +81,7 @@ If you like this project, don't forget to ⭐ the repo!
 **© 2025 VIRUSI-MBAYA-MDV2 | Built with 🦠 by VIRUSI 🦠 MBAYA HIV**
 ---
 
-```html
-<h1 style="color: #00ADB5;" align="center">THE VIRUSI MBAYA MULTI DEVICE</h1>
+```<h1 style="color: #00ADB5;" align="center">THE VIRUSI MBAYA MULTI DEVICE</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
