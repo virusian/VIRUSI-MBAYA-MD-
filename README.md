@@ -80,11 +80,10 @@ If you like this project, don't forget to ⭐ the repo!
 
 **© 2025 VIRUSI-MBAYA-MDV2 | Built with 🦠 by VIRUSI 🦠 MBAYA HIV**
 ---
-```<h1 style="color: #FF6347;" align="center">THE VIRUSI MBAYA MULTI DEVICE</h1>
+<h1 align="center" style="color: #FF6347;">𝐓𝐇𝐄 VIRUSI 𝐌𝐔𝐋𝐓𝐈 𝐃𝐄𝐕𝐈𝐂𝐄</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&pause=1000&color=00ADB5&center=true&vCenter=true&width=920&height=100&lines=THANKS+FOR+CHOOSING+VIRUSI-MD;MULTI+DEVICE+WHATSAPP+BOT;CODED+BY+VIRUSI+MBAYA;SPECIAL+THANKS+TO+STAINER+C+FOR+CODE+ENCRYPTION;PHYNIC+FOR+LOVE+SUPPORT;AND+ALL+OF+YOU+FOR+TRUSTING+VIRUSI+MBAYA🦠" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=DEPLOYER+THIS+IS+VIRUSI+MBAYA-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+VIRUSI+MBAYA; SPECIAL+THANKS+TO STAINER+FOR+CODE+ENCRYPTION;PHYNIC+FOR+🥰🥰;AND+YOU+FOR+WHAT+YOU+DID" alt="Typing SVG" />
   </a>
 </p>
-```
