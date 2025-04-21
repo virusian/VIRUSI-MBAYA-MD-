@@ -90,10 +90,10 @@ TTP
 **© 2025 VIRUSI-MBAYA-MDV2 | Built with 🦠 by VIRUSI 🦠 MBAYA HIV**
 ---
 
-<h1 align="center" style="color: #FF6347;">𝐓𝐇𝐄 VIRUSI 𝐌𝐔𝐋𝐓𝐈 𝐃𝐄𝐕𝐈𝐂𝐄</h1>
+<h1 align="center" style="color: #FF6347;">VIRUSDEVS</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=DEPLOYER+THIS+IS+VIRUSI+MBAYA-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+VIRUSI+MBAYA; SPECIAL+THANKS+TO STAINER+FOR+CODE+ENCRYPTION;PHYNIC+FOR+🥰🥰;AND+YOU+FOR+WHAT+YOU+DID" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=VIRUSI+MBAYA+HIV;UKORA;AKILI;NA+KIBURI+MINGI" alt="Typing SVG" />
   </a>
 </p>
