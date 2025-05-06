@@ -42,7 +42,7 @@
 
 ---
 
-## 🦠 GET SESSION🦠
+## 🦠🔹GET SESSION🔹🦠
 
 <p align="center">
   <a href="https://phynic-session-id-1287.onrender.com">
@@ -52,9 +52,9 @@
 
 ---
 
-## 🦠 VIRUSI-MBAYA-MDV2 DEPLOYMENT OPTIONS🦠
+## 🦠 🔹VIRUSI-MBAYA-MDV2 DEPLOYMENT OPTIONS🔹🦠
 
-### 🔹🦠DEPLOY ON HEROKU🦠
+### 🔹🦠DEPLOY ON HEROKU🔹🦠
 
   [![Click Here](https://img.shields.io/badge/➤Click-Here-brown.svg)](https://dashboard.heroku.com/new?template=https://github.com/virusian/VIRUSI-MBAYA-MDV2)
   
@@ -70,7 +70,7 @@
 
 ---
 
-## ⚡ 🦠VIRUSI-MBAYA-MDV2 BOT INFO  
+## ⚡ 🦠🔹VIRUSI-MBAYA-MDV2 BOT INFO🔹  
 💯 **Fast & Optimized🦠** - Lightweight and performance-driven  
 🔒 **🦠Secure🦠** - Strong security mechanisms in place  
 ♻️ **🦠Auto Updates🦠** - Regular enhancements & bug fixes  
@@ -89,8 +89,8 @@
 If you like this project, don't forget to ⭐ the repo!  
 
 ---
-TTP
-**© 2025 VIRUSI-MBAYA-MDV2 | Built with 🦠 by VIRUSI 🦠 MBAYA HIV**
+VIRUSI
+**© 2025 VIRUSI-MBAYA-MDV2 | Built with 😠 by VIRUSI 🦠 MBAYA HIV**
 ---
 
 <h1 align="center" style="color: #FF6347;">VIRUSDEVS</h1>
@@ -105,9 +105,5 @@ TTP
 </p>
 <!-- Glowing Header -->
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
-</p>
-<!-- Glowing Header -->
-<p align="left">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </p>
