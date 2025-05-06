@@ -94,9 +94,12 @@ TTP
 ---
 
 <h1 align="center" style="color: #FF6347;">VIRUSDEVS</h1>
-
+<!-- Glowing Header -->
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+</p>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=VIRUSI+MBAYA+HIV;UKORA;AKILI;NA+KIBURI+MINGI" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=VIRUSI+MBAYA+HIV;UKORA+AKILI+NA+KIBURI+MINGI" alt="Typing SVG" />
   </a>
 </p>
