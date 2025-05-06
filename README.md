@@ -1,7 +1,8 @@
-<!--Glowing header-->
-<h1 align="center" style="color: #4CAF50;">THE VIRUSI MULTI DEVICE</h1>
----
 <!-- Glowing Header -->
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+</p>
+<h1 align="center" style="color: #4CAF50;">THE VIRUSI MULTI DEVICE</h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=FF6347&center=true&width=910&height=100&lines=HEY+THIS+IS+VIRUSI+MBAYA-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+VIRUSI+MBAYA;SPECIAL+THANKS+TO;STAINER+FOR+CODE+ENCRYPTION;PHYNIC+FOR+LOVE+SUPPORT;AND+YOU+FOR+WHAT+YOU+DID" alt="Typing SVG" />
