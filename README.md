@@ -103,3 +103,7 @@ TTP
     <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=VIRUSI+MBAYA+HIV;UKORA+AKILI+NA+KIBURI+MINGI" alt="Typing SVG" />
   </a>
 </p>
+<!-- Glowing Header -->
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
+</p>
