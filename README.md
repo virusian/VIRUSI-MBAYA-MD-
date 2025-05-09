@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
 </p>
-<h1 align="center" style="color: #000000;">THE VIRUSI MULTI DEVICE</h1>
+<h1 align="center" style="color: #00FF00;">THE VIRUSI MULTI DEVICE</h1>
 <!-- Glowing Header -->
 <p align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
