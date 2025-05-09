@@ -9,7 +9,7 @@
 </p>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&duration=3000&color=FF6347&center=true&width=910&height=100&lines=🦠+THIS+IS+VIRUSI+MBAYA-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+VIRUSI+MBAYA;SPECIAL+THANKS+TO;STAINER+FOR+CODE+ENCRYPTION;PHYNIC+FOR+LOVE+SUPPORT;AND+YOU+FOR+WHAT+YOU+DID" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50& duration=1000&color=FF6347&center=true&width=910&height=100&lines=HEY+THIS+IS+VIRUSI+MBAYA-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+VIRUSI+MBAYA;SPECIAL+THANKS+TO;STAINER+FOR+CODE+ENCRYPTION;PHYNIC+FOR+LOVE+SUPPORT;AND+YOU+FOR+WHAT+YOU+DID" alt="Typing SVG" />
   </a>
 </p>
 
@@ -57,63 +57,3 @@
 <p align="center">
   <a href="https://phynic-session-id-1287.onrender.com">
     <img title="GET SESSION" src="https://img.shields.io/badge/GET SESSION-blue?style=for-the-badge&logo=bwm" width="220" height="38.45"/>
-  </a>
-</p>
-
----
-
-## 🦠 🔹VIRUSI-MBAYA-MDV2 DEPLOYMENT OPTIONS🔹🦠
-
-### 🔹🦠DEPLOY ON HEROKU🔹🦠
-
-  [![Click Here](https://img.shields.io/badge/➤Click-Here-brown.svg)](https://dashboard.heroku.com/new?template=https://github.com/virusian/VIRUSI-MBAYA-MDV2)
-  
-### 🔹 🦠DEPLOY ON OTHER PLATFORMS
-- **Render🦠:**  
-  [![Click Here](https://img.shields.io/badge/➤Click-Here-red.svg)](https://render.com)
-
-- **🦠ToyStack🦠:**  
-  [![Click Here](https://img.shields.io/badge/➤Click-Here-yellow.svg)](https://toystack.ai)
-
-- **🦠Koyeb🦠:**  
-  [![Click Here](https://img.shields.io/badge/➤Click-Here-green.svg)](https://koyeb.com)
-
----
-
-## ⚡ 🦠🔹VIRUSI-MBAYA-MDV2 BOT INFO🔹  
-💯 **Fast & Optimized🦠** - Lightweight and performance-driven  
-🔒 **🦠Secure🦠** - Strong security mechanisms in place  
-♻️ **🦠Auto Updates🦠** - Regular enhancements & bug fixes  
-😁 **🦠Customizable🦠** - Fully modifiable to suit your needs  
-
----
-
-## 💬 🦠CONNECT WITH US🦠 
-- **🦠WhatsApp Channel🦠:** [Click Here](https://whatsapp.com/channel/0029VawCel7GOj9ktLjkxQ3g)  
-- **WhatsApp Group:** [Join Here](https://whatsapp.com/channel/0029VafL5zUKbYMKza6vAv1V)  
-- **Website:** [VIRUSI MDV2](https://github.com/virusian/VIRUSI-MBAYA-MDV2)  
-
----
-
-### 🌟 🦠Show Some Love🦠  
-If you like this project, don't forget to ⭐ the repo!  
-
----
-VIRUSI
-**© 2025 VIRUSI-MBAYA-MDV2 | Built with 😠 by VIRUSI 🦠 MBAYA HIV**
----
-
-<h1 align="center" style="color: #FF6347;">VIRUSDEVS</h1>
-<!-- Glowing Header -->
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
-</p>
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=VIRUSI+MBAYA+HIV;UKORA+AKILI+NA+KIBURI+MINGI" alt="Typing SVG" />
-  </a>
-</p>
-<!-- Glowing Header -->
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="40" width="100%">
-</p>
