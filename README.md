@@ -57,3 +57,55 @@
 <p align="center">
   <a href="https://phynic-session-id-1287.onrender.com">
     <img title="GET SESSION" src="https://img.shields.io/badge/GET SESSION-blue?style=for-the-badge&logo=bwm" width="220" height="38.45"/>
+
+---
+
+##  GET SESSION
+
+<p align="center">
+  <a href="https://www.ibrahimadams.site/scanner">
+    <img title="GET SESSION" src="https://img.shields.io/badge/GET SESSION-blue?style=for-the-badge&logo=bwm" width="220" height="38.45"/>
+  </a>
+</
+
+---
+
+## 🧩 VIRUSI-MBAYA-MDV2 DEPLOYMENT OPTIONS
+
+### 🔹 DEPLOY ON HEROKU
+
+  [![Click Here](https://img.shields.io/badge/➤Click-Here-red.svg)](https://dashboard.heroku.com/new?template=https://github.com/virusdevs/VIRUSI-MBAYA-MDV2)
+  
+### 🔹 DEPLOY ON OTHER PLATFORMS
+- **Render:**  
+  [![Click Here](https://img.shields.io/badge/➤Click-Here-blue.svg)](https://render.com)
+
+- **ToyStack:**  
+  [![Click Here](https://img.shields.io/badge/➤Click-Here-blue.svg)](https://toystack.ai)
+
+- **Koyeb:**  
+  [![Click Here](https://img.shields.io/badge/➤Click-Here-blue.svg)](https://koyeb.com)
+
+---
+
+## ⚡ VIRUSI-MBAYA-MDV2 BOT INFO  
+🚀 **Fast & Optimized** - Lightweight and performance-driven  
+🔒 **Secure** - Strong security mechanisms in place  
+♻️ **Auto Updates** - Regular enhancements & bug fixes  
+⚙️ **Customizable** - Fully modifiable to suit your needs  
+
+---
+
+## 💬 CONNECT WITH US  
+- **WhatsApp Channel:** [Click Here](https://whatsapp.com/channel/0029VawCel7GOj9ktLjkxQ3g)  
+- **Telegram Group:** [Join Here](https://t.me/yourgroup)  
+- **Website:** [BWM XMD](https://www.ibrahimadams.site)  
+
+---
+
+### 🌟 Show Some Love  
+If you like this project, don't forget to ⭐ the repo!  
+
+---
+
+**© 2025 VIRUSI-MBAYA-MDV2 | Built with ❤️ by Sir Virusi 🦠 Mbaya Hiv**
